@@ -1,0 +1,14 @@
+{
+  "name": "AZ Clean — Βιολογικός Καθαρισμός Καναπέ & Στρωμάτων",
+  "short_name": "AZ Clean",
+  "description": "Βιολογικός καθαρισμός καναπέ, στρωμάτων, χαλιών, αυτοκινήτου και σκάφους στον χώρο σας. Γλυφάδα, Βούλα, Βουλιαγμένη και όλη η Αττική.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14110D",
+  "theme_color": "#14110D",
+  "lang": "el",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
