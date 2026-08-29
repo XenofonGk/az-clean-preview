@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://azclean.gr/sitemap-index.xml
